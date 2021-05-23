@@ -1,2 +1,2 @@
-Name  		Acount no.
+Name  		Account
 Siddharth	1001
